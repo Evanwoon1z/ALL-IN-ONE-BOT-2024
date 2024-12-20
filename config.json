@@ -1,5 +1,5 @@
 {
-    "token": "",
+    "token": "MTMxOTQ4ODAzNDQ3NTA4MTc3OQ.GNTtF3.FOqnWkU0SQNsFw7NXIqOKaHNOiyqnkcn3RwNlw",
     "language": "en",
     "prefix": "!",
     "mongodbUri": "",
@@ -9,15 +9,15 @@
         "other": true,
         "hentai": true,
         "lavalink": true,
-        "troll": true
+        "troll": false
     },
     "categories": {
-        "anime": true,
+        "anime": false,
         "basic": true,
         "utility": true,
         "moderation": true,
-        "fun": true,
-        "distube music": true,
+        "fun": false,
+        "distube music": false,
         "setups": true
     },
      "lavalink": {
