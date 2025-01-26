@@ -20,7 +20,7 @@
         "report" : true
     },
     "categories": {
-        "anime": true,
+        "anime": false,
         "basic": true,
         "utility": true,
         "moderation": false,
