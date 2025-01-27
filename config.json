@@ -10,7 +10,7 @@
         "hentai": false,
         "lavalink": true,
         "troll": false,
-        "levelling" : false,
+        "levelling" : true,
         "economy" : true,
         "application" : true,
         "birthday" : false,
