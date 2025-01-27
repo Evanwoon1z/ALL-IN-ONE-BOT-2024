@@ -22,9 +22,9 @@
         "anime": false,
         "basic": false,
         "utility": true,
-        "moderation": false,
-        "fun": true,
-        "distube music": true,
+        "moderation": true,
+        "fun": false,
+        "distube music": false,
         "setups": true
     },
      "lavalink": {
