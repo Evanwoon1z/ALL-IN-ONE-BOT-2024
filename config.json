@@ -1,5 +1,4 @@
 {
-{
     "token": "",
     "language": "en",
     "prefix": "!",
@@ -7,7 +6,7 @@
     "geniusToken": "0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf",
     "excessCommands": {
         "utility": true,
-        "other": true,
+        "other": false,
         "hentai": false,
         "lavalink": true,
         "troll": false,
@@ -21,7 +20,7 @@
     },
     "categories": {
         "anime": false,
-        "basic": true,
+        "basic": false,
         "utility": true,
         "moderation": false,
         "fun": true,
