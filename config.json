@@ -2,23 +2,30 @@
     "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://Evanwoon1:3vanw00n13@cluster0.2upyu.mongodb.net/?retryWrites=true&w=majority",
     "excessCommands": {
         "utility": true,
         "other": true,
         "hentai": true,
-        "troll": true,
-        "economy" : true
+        "troll": false,
+        "levelling" : true,
+        "lavalink" : true,
+        "economy" : false,
+        "application" : true,
+        "birthday" : false,
+        "gaming" : false,
+        "customcommands" : true,
+        "report" : true
     },
     "categories": {
-        "anime": true,
+        "anime": false,
         "basic": true,
         "utility": true,
         "moderation": true,
         "core" :true,
         "lavalink": true,
-        "fun": true,
-        "distube": true,
+        "fun": false,
+        "distube": false,
         "setups": true
     }
 }
